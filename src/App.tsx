@@ -5,7 +5,6 @@ import { faGithub, faLinkedin, faWhatsapp } from '@fortawesome/free-brands-svg-i
 const socialLinks = [
   { name: 'GitHub', url: 'https://github.com/pagaurav', icon: faGithub, color: '#333' },
   { name: 'LinkedIn', url: 'https://linkedin.com/in/gauravpatil44', icon: faLinkedin, color: '#0077b5' },
-  // { name: 'Email', url: 'mailto:patilgaurav22112001@gmail.com', icon: faEnvelope, color: '#ea4335' },
   { name: 'WhatsApp', url: 'https://wa.me/919325540421', icon: faWhatsapp, color: '#25D366' },
 ];
 
